@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+html, body {
+    margin: 0;
+    font-family: "Noto Sans", sans-serif;
+    height: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    
+}
+
+header {
+    height: 200px;
+    padding: 20px 0;
+}
+
+.logo {
+    width: 50%;
+}
+
+.menu {
+    padding-top: 30px;
+    width: 50%;
+    text-align: right;
+}
+
+.menu a {
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+section.sobre {
+    height: calc(100% - 200px);
+    position: relative;
+}
+
+.extras {
+    position: absolute;
+    bottom: -450px;
+    right: -500px;
+    width: 1200px;
+    height: 1200px;
+    border-radius: 50%;
+    background-color: #017143;
+}
+
+.social-media {
+    position: absolute;
+    right: 510px;
+    top: 200px;
+}
+
+.social-media img {
+    display: block;
+    width: 20px;
+    margin: 20px 0;
+}
+
+.texto-sobre h1 {
+    font-size: 50px;
+}
+
+.texto-sobre p {
+    margin: 20px 0;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    max-width: 800px;
+}
+
+.texto-sobre button {
+    border: 0;
+    background-color: #017143;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.texto-sobre p {
+    text-align: justify; /* Justifica o texto */
+}
+
+.menu a:hover {
+    border-bottom: 1px solid black; /* Adiciona uma linha abaixo do link quando o mouse passa por cima */
+}
+
+.texto-sobre button:hover {
+    background-color: #017143; /* Nova cor de fundo */
+    color: #ffffff; /* Nova cor do texto */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); /* Adiciona uma sombra */
+    transform: scale(1.05); /* Aumenta o tamanho ligeiramente */
+    transition: all 0.3s; /* Adiciona uma transição suave */
+}
+
+
+@media only screen and (max-width: 1800px) {
+    .extras {
+        width: 920px; /* 40% menor que 1200px */
+        height: 920px; /* 40% menor que 1200px */
+        right: -300px; /* Mais próxima do canto direito */
+        bottom: -270px; /* Ajusta a posição inferior de acordo */
+    }
+
+    .extras img[src="assets/img1.png"] {
+        width: 40%; /* Ajusta a imagem para ocupar toda a largura da div .extras */
+        height: auto; /* Mantém a proporção da imagem */
+    }
+
+    .social-media {
+        right: 310px; /* Ajusta a posição do ícone de mídia social */
+    }
+}
+
+@media only screen and (max-width: 1550px) {
+    .extras {
+        width: 720px; /* 40% menor que 1200px */
+        height: 720px; /* 40% menor que 1200px */
+        right: -300px; /* Mais próxima do canto direito */
+        bottom: -270px; /* Ajusta a posição inferior de acordo */
+    }
+
+    .extras img[src="assets/img1.png"] {
+        width: 40%; /* Ajusta a imagem para ocupar toda a largura da div .extras */
+        height: auto; /* Mantém a proporção da imagem */
+    }
+
+    .social-media {
+        right: 310px; /* Ajusta a posição do ícone de mídia social */
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .extras {
+        width: 620px; /* 40% menor que 1200px */
+        height: 620px; /* 40% menor que 1200px */
+        right: -300px; /* Mais próxima do canto direito */
+        bottom: -270px; /* Ajusta a posição inferior de acordo */
+    }
+
+    .extras img[src="assets/img1.png"] {
+        width: 50%; /* Ajusta a imagem para ocupar toda a largura da div .extras */
+        height: auto; /* Mantém a proporção da imagem */
+    }
+
+    .social-media {
+        display: none;
+    }
+
+    .logo {
+        width: 20%;
+    }
+    
+    .menu {
+        padding-top: 30px;
+        width: 80%;
+        text-align: right;
+    }
+
+}
+
+@media only screen and (max-width: 700px) {
+    .extras {
+        width: 520px; /* 40% menor que 1200px */
+        height: 520px; /* 40% menor que 1200px */
+        right: -350px; /* Mais próxima do canto direito */
+        bottom: -270px; /* Ajusta a posição inferior de acordo */
+    }
+
+    .extras img[src="assets/img1.png"] {
+        width: 35%; /* Ajusta a imagem para ocupar toda a largura da div .extras */
+        height: auto; /* Mantém a proporção da imagem */
+    }
+    .logo {
+        display: none;
+    }
+    
+    .menu {
+        padding-top: 30px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .menu a {
+        margin-right: 0px;
+    }
+    .texto-sobre h1 {
+        font-size: 30px;
+    }
+
+}
