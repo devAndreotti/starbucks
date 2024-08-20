@@ -1,7 +1,3 @@
-Aqui está um exemplo de README.md para o seu projeto "StarBucks Coffee":
-
----
-
 # StarBucks Coffee
 
 <div align="center">
@@ -51,7 +47,3 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 ## Nota
 
 Este projeto é para fins educacionais, focado em práticas de HTML e CSS. Sinta-se livre para explorar, modificar e adaptar.
-
----
-
-Você pode adicionar ou modificar detalhes conforme a necessidade do seu projeto!
