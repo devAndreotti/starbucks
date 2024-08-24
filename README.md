@@ -8,6 +8,10 @@
 
 Este projeto é uma página web simples inspirada na marca StarBucks. O objetivo é praticar habilidades de HTML e CSS, criando uma página inicial que apresenta o slogan e as redes sociais da empresa.
 
+## Visualize o Projeto
+
+Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/starbucks/).
+
 ## Tecnologias Empregadas
 
 - **HTML5**: Estrutura da página.
