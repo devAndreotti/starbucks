@@ -1,7 +1,7 @@
 # StarBucks Coffee
 
 <div align="center">
-  <img src="assets/logo.png" alt="StarBucks Logo" width="250"/>
+  <img src="./Star Bucks.png" alt="Star Bucks Banner"/>
 </div>
 
 ## Objetivo do Projeto
