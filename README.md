@@ -1,23 +1,33 @@
-# StarBucks Coffee
+<!-- Projeto Finalizado -->
+# ☕ StarBucks Coffee
+
+<p align="center">
+  <!-- Contador de linguagens do GitHub -->
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/starbucks?color=FFF&labelColor=017042&style=flat-square">
+  <!-- Tamanho do repositório no GitHub -->
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/starbucks?color=FFF&labelColor=017042&style=flat-square">
+  <!-- Licença do GitHub -->
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=017042&style=flat-square">
+</p>
 
 <div align="center">
   <img src="./Star Bucks.png" alt="Star Bucks Banner"/>
 </div>
 
-## Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 Este projeto é uma página web simples inspirada na marca StarBucks. O objetivo é praticar habilidades de HTML e CSS, criando uma página inicial que apresenta o slogan e as redes sociais da empresa.
 
-## Visualize o Projeto
+## 🌐 Visualize o Projeto
 
 Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/starbucks/).
 
-## Tecnologias Empregadas
+## 🛠️ Tecnologias Empregadas
 
 - **HTML5**: Estrutura da página.
 - **CSS3**: Estilos e layout da página.
 
-## Como Executar
+## 🚀 Como Executar
 
 1. **Clone o Repositório**
    ```bash
@@ -32,13 +42,7 @@ Você pode visualizar o projeto online através deste [link](https://devandreott
 3. **Abra o `index.html` no Navegador**
    - Simplesmente clique duas vezes no arquivo `index.html` ou arraste-o para uma nova aba do seu navegador.
 
-## Estrutura do Projeto
-
-- **index.html**: Página principal do projeto.
-- **css/style.css**: Arquivo de estilo para a página.
-- **assets/**: Pasta que contém as imagens utilizadas no projeto.
-
-## Contribuição
+## 💪 Contribuição
 
 Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
@@ -48,6 +52,6 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 4. Envie para a branch `git push origin feature/nome-feature`.
 5. Abra um Pull Request.
 
-## Nota
+## 📌 Nota
 
 Este projeto é para fins educacionais, focado em práticas de HTML e CSS. Sinta-se livre para explorar, modificar e adaptar.
