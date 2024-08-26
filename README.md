@@ -31,7 +31,7 @@ Você pode visualizar o projeto online através deste [link](https://devandreott
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/seu-usuario/starbucks-coffee.git
+   git clone https://github.com/devAndreotti/starbucks.git
    ```
 
 2. **Navegue até a Pasta do Projeto**
