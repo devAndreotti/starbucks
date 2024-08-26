@@ -1,6 +1,5 @@
 <!-- Projeto Finalizado -->
 # ☕ StarBucks Coffee
-
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/starbucks?color=FFF&labelColor=017042&style=flat-square">
@@ -15,37 +14,24 @@
 </div>
 
 ## 🎯 Objetivo do Projeto
-
 Este projeto é uma página web simples inspirada na marca StarBucks. O objetivo é praticar habilidades de HTML e CSS, criando uma página inicial que apresenta o slogan e as redes sociais da empresa.
 
 ## 🌐 Visualize o Projeto
-
 Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/starbucks/).
 
 ## 🛠️ Tecnologias Empregadas
-
 - **HTML5**: Estrutura da página.
 - **CSS3**: Estilos e layout da página.
 
 ## 🚀 Como Executar
-
 1. **Clone o Repositório**
    ```bash
    git clone https://github.com/devAndreotti/starbucks.git
    ```
-
-2. **Navegue até a Pasta do Projeto**
-   ```bash
-   cd starbucks-coffee
-   ```
-
-3. **Abra o `index.html` no Navegador**
-   - Simplesmente clique duas vezes no arquivo `index.html` ou arraste-o para uma nova aba do seu navegador.
+2. Abra o arquivo `index.html` no navegador.
 
 ## 💪 Contribuição
-
 Contribuições são bem-vindas! Para contribuir, siga estas etapas:
-
 1. Faça um fork do projeto.
 2. Crie uma nova branch para sua feature `git checkout -b feature/nome-feature`.
 3. Commit suas mudanças `git commit -m 'Adiciona nova feature'`.
@@ -53,5 +39,4 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 5. Abra um Pull Request.
 
 ## 📌 Nota
-
 Este projeto é para fins educacionais, focado em práticas de HTML e CSS. Sinta-se livre para explorar, modificar e adaptar.
