@@ -20,8 +20,8 @@ Este projeto é uma página web simples inspirada na marca StarBucks. O objetivo
 Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/starbucks/).
 
 ## 🛠️ Tecnologias Empregadas
-- **HTML5**: Estrutura da página.
-- **CSS3**: Estilos e layout da página.
+- **HTML**: Estrutura da página.
+- **CSS**: Estilos e layout da página.
 
 ## 🚀 Como Executar
 1. **Clone o Repositório**
@@ -40,3 +40,8 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
 ## 📌 Nota
 Este projeto é para fins educacionais, focado em práticas de HTML e CSS. Sinta-se livre para explorar, modificar e adaptar.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
