@@ -176,6 +176,13 @@ section.sobre {
 
 }
 
+/* Telas médias: o texto não invade o círculo com a bebida */
+@media only screen and (max-width: 1200px) and (min-width: 701px) {
+    .texto-sobre p {
+        max-width: 45vw;
+    }
+}
+
 @media only screen and (max-width: 700px) {
     .extras {
         width: 520px; /* 40% menor que 1200px */
@@ -203,6 +210,21 @@ section.sobre {
     }
     .texto-sobre h1 {
         font-size: 30px;
+    }
+
+    /* Mobile: header sem altura fixa (evita o vão vazio) e conteúdo rolável */
+    header {
+        height: auto;
+    }
+
+    html, body {
+        height: auto;
+        overflow-y: auto;
+    }
+
+    section.sobre {
+        height: auto;
+        padding-bottom: 340px; /* espaço para o círculo com a bebida abaixo do texto */
     }
 
 }
